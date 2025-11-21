@@ -7,12 +7,14 @@ public class Users {
 
 		Audi a = new Audi();
 		a.lights();
-		
+
 		Cars c = new Audi();
 		c.gears();
-		
-		
+
+		Audi m = new Audi();
+		m.gears();
+
 	}
 }
 
-//we canont create the objects or instances for the interfaces
+//we cannot create the objects or instances for the interfaces
